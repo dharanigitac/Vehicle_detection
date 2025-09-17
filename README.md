@@ -30,11 +30,6 @@ The system is built to identify different types of vehicles (e.g., cars, trucks,
     pip install -r requirements.txt
     ```
 
-If you don't have a `requirements.txt` file, you can create one by running this command after you have installed all the necessary packages manually:
-    ```bash
-    pip freeze > requirements.txt
-    ```
-
 ## Usage
 To run the application, ensure all dependencies are installed and execute the main Python script from your terminal:
 
