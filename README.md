@@ -21,8 +21,7 @@ The system is built to identify different types of vehicles (e.g., cars, trucks,
 ### Setup
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/dharanigitac/Vehicle_detection.git](https://github.com/dharanigitac/Vehicle_detection.git)
-    cd Vehicle_detection
+    git clone https://github.com/dharanigitac/Vehicle_detection.git
     ```
 
 2.  **Install dependencies:**
